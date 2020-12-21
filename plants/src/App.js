@@ -35,7 +35,7 @@ function App() {
           <a className="item link">
             <Link
               className="link"
-              to={"//watermyplantsmarketingpage.netlify.app/about.html"}
+              to={"//bw-water-my-plants.netlify.app/"}
               target="_blank"
             >
               Home
